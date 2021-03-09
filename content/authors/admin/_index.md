@@ -2,7 +2,7 @@
 role: Masters Candidate
 avatar_filename: screen-shot-2021-03-08-at-11.48.28.png
 bio: ""
-interests: []
+interests:[]
 social:
   - icon: envelope
     icon_pack: fas
