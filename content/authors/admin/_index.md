@@ -3,7 +3,11 @@ role: Masters Candidate
 avatar_filename: avatar.png
 bio: ""
 interests: 
+  - Data Science
+  - Big Data
   - Risk Management
+  - Big Data
+  - Data Visualization
   
 social:
   - icon: envelope
