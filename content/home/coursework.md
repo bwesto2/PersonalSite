@@ -27,5 +27,17 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 1
+  
+Coursework:
+  - title: IDS 400 - Programming for Data Science
+    description: |2-
+        Responsibilities include:
+        
+        * Prepare and review monthly, quarterly, and annual forecasts for all client accounts.
+        * Lead client meetings on requirements for the current and future planned forecasting processes.
+        * Create insightful visualizations to summarize analyses and facilitate decision-making for C-Suite executives.
+        * Utilize SQL to extract and manipulate data from Finance database.
+        * Develop Python scripts and VBA macros to automate reporting and finance metrics for client accounts.
+ 
 ---
 
