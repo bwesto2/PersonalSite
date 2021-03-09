@@ -1,43 +1,43 @@
 ---
-# An instance of the Featured widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: blank
+widget: accomplishments
+headless: true  # This file represents a page section.
 
-# This file represents a page section.
-headless: true
+# ... Put Your Section Options Here (title etc.) ...
 
-# Order that this section appears on the page.
-weight: 40
+# Date format
+#   Refer to https://wowchemy.com/docs/customization/#date-format
+date_format: Jan 2006
 
-title: Coursework
-subtitle: "Course descriptions taken directly from UIC academic catalog"
-
-content:
-  # Page type to display. E.g. post, talk, publication...
-  page_type: blank
-  # Choose how many pages you would like to display (0 = all pages)
-  count: 0
-  # Page order: descending (desc) or ascending (asc) date.
-  order: desc
-
-design:
-  # Choose a view for the listings:
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view: 1
-  
-Coursework:
-  - title: IDS 400 - Programming for Data Science
-    description: |2-
-        Responsibilities include:
-        
-        * Prepare and review monthly, quarterly, and annual forecasts for all client accounts.
-        * Lead client meetings on requirements for the current and future planned forecasting processes.
-        * Create insightful visualizations to summarize analyses and facilitate decision-making for C-Suite executives.
-        * Utilize SQL to extract and manipulate data from Finance database.
-        * Develop Python scripts and VBA macros to automate reporting and finance metrics for client accounts.
- 
+# Accomplishments.
+#   Add/remove as many `item` blocks below as you like.
+#   `title`, `organization` and `date_start` are the required parameters.
+#   Leave other parameters empty if not required.
+#   Begin/end multi-line descriptions with `>-`.
+item:
+  - organization: Aims to provide students the knowledge and skills for designing and developing data science applications in various business areas, using a language such as Python. Focuses on programming constructs and use of functions and packages.
+    organization_url:
+    title: IDS 400 - Programming for Data Science
+    url: ''
+    certificate_url: 'https://www.coursera.org'
+    date_start: '2018-10-01'
+    date_end: ''
+    description: ''
+  - organization: edX
+    organization_url: 'https://www.edx.org'
+    title: Blockchain Fundamentals
+    url: >-
+      https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    certificate_url: 'https://www.edx.org'
+    date_start: '2018-03-01'
+    date_end: ''
+    description: 'Formulated informed blockchain models, hypotheses, and use cases.'
+  - organization: DataCamp
+    organization_url: 'https://www.datacamp.com'
+    title: 'Object-Oriented Programming in R: S3 and R6 Course'
+    url: ''
+    certificate_url: 'https://www.datacamp.com'
+    date_start: '2017-07-01'
+    date_end: '2017-12-21'
+    description: ''
 ---
 
