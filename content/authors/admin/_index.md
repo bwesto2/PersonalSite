@@ -2,10 +2,7 @@
 role: Masters Candidate
 avatar_filename: avatar.png
 bio: ""
-interests:
-  -RiskAnalystics
-  -AlgorithmicTrading
-  -BigData
+interests: []
   
 social:
   - icon: envelope
