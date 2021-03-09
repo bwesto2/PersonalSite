@@ -5,6 +5,8 @@ headless: true  # This file represents a page section.
 # ... Put Your Section Options Here (title etc.) ...
 weight: 40
 title: Coursework
+subtitle: Course descriptions copied directly from UIC academic catalogue.  
+
 
 
 # Date format
