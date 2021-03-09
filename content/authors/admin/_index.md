@@ -3,9 +3,14 @@ role: Masters Candidate
 avatar_filename: avatar.png
 bio: ""
 interests:
-  - RiskAnalystics
-  - AlgorithmicTrading
-  - BigData
+  -Finance
+  -Risk Management
+  -Algorithmic Trading
+  -Data Science 
+  -Big Data
+  -Data Visualization
+  -Business Intelligence
+  
 social:
   - icon: envelope
     icon_pack: fas
