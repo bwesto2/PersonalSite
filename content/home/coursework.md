@@ -9,7 +9,7 @@ title: Coursework
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: 2006
+date_format: January 2006
 
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
@@ -22,7 +22,7 @@ item:
     title: IDS 400 - Programming for Data Science
     url: ''
     certificate_url: ''
-    date_start: '2020-01-01'
+    date_start: '2020-08-01'
     date_end: ''
     description: ''
     
@@ -32,7 +32,7 @@ item:
     title: IDS 410 - Business Database Technology
     url: ''
     certificate_url: ''
-    date_start: '2020-01-01'
+    date_start: '2020-08-01'
     date_end: ''
     description: ''
     
@@ -42,7 +42,7 @@ item:
     title: IDS 567 - Business Data Visualization
     url: ''
     certificate_url: ''
-    date_start: '2020-01-01'
+    date_start: '2020-08-01'
     date_end: ''
     description: ''
     
@@ -52,7 +52,7 @@ item:
     title: IDS 572 - Data Mining for Business
     url: ''
     certificate_url: ''
-    date_start: '2020-01-01'
+    date_start: '2020-08-01'
     date_end: ''
     description: ''
     
