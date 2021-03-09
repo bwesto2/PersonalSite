@@ -34,5 +34,3 @@ I am Blake Weston, an aspiring data scientist. I am currently enrolled as a Mast
 I love programming so I built this website to demonstrate my interests and to display some of my qualifcations and projects.
 
 Please have a look around and feel free to contact me if you have any questions. I’m actively seeking full-time opportunities in data science and machine learning.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
