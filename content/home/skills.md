@@ -25,11 +25,11 @@ feature:
   icon_pack: fas
   name: Statistics
 - description:
-  icon: r-package
+  icon: r-project
   icon_pack: fas
   name: R
 - description:
-  icon: fa-money-bill
+  icon: money-bill
   icon_pack: fas
   name: Finance
 - description:
