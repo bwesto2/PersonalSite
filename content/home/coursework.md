@@ -87,7 +87,7 @@ item:
     description: ''
     
 item:    
-  - organization: course surveys modern best practices around getting machine learning (ML) models into production. It continues where IDS 572 and IDS 575 left off, which is to learn multiple ways of operationalizing machine learning workflows and models in the context of the larger business end-goals. The course is complementary to IDS 561. We will gain a better understanding of strategies for model management, monitoring and deployment. We will also intertwine these topics with online experimentation techniques (A/B testing) and software engineering ideas such as version control, containerization, and continuous integration/continuous deployment.
+  - organization: course surveys modern best practices around getting machine learning (ML) models into production. It continues where IDS 572 and IDS 575 left off, which is to learn multiple ways of operationalizing machine learning workflows and models in the context of the larger business end-goals. The course is complementary to IDS 561. We will gain a better understanding of strategies for model management, monitoring and deployment. We will also intertwine these topics with online experimentation techniques (A/B testing) and software engineering ideas such as version control, containerization, and continuous integration or continuous deployment.
     organization_url:
     title: IDS 594 - Special Topics: Machine Learning Operations
     url: ''
