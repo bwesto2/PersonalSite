@@ -28,7 +28,6 @@ experience:
     location: Chicago, IL
     date_start: '2020-09'
     date_end: ''
-    description:''
 
   - title: Finance Analyst
     company: DDB 
@@ -36,7 +35,6 @@ experience:
     location: Chicago, IL
     date_start: '2019-09'
     date_end: '2020-09'
-    description:''
     
  - title: Senior Billing Analyst
     company: INAP 
@@ -44,5 +42,4 @@ experience:
     location: Chicago, IL
     date_start: '2017-04'
     date_end: '2019-09'
-    description: ''
 ---
