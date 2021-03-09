@@ -16,6 +16,7 @@ date_format: January 2006
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with `>-`.
+
 item:
   - organization: Aims to provide students the knowledge and skills for designing and developing data science applications in various business areas, using a language such as Python. Focuses on programming constructs and use of functions and packages.
     title: IDS 400 - Programming for Data Science
