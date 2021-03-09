@@ -1,7 +1,7 @@
 ---
 role: Masters Candidate
 avatar_filename: avatar.png
-bio: ""
+bio: APPLES
 interests: []
 social:
   - icon: envelope
