@@ -2,7 +2,8 @@
 role: Masters Candidate
 avatar_filename: avatar.png
 bio: ""
-interests: []
+interests: 
+  - Risk Management
   
 social:
   - icon: envelope
