@@ -1,5 +1,5 @@
 ---
-role: Data Enthusiast
+role: Masters Candidate
 avatar_filename: screen-shot-2021-03-08-at-11.48.28.png
 bio: ""
 interests: []
