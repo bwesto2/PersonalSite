@@ -1,8 +1,7 @@
 ---
-title: Blake
 role: Data Enthusiast
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+avatar_filename: screen-shot-2021-03-08-at-11.48.28.png
+bio: ""
 interests: []
 social:
   - icon: envelope
@@ -25,9 +24,10 @@ education:
     - course: BS in Finance
       institution: University of Illinois at Chicago
       year: 2018
-email: ""
 superuser: true
 highlight_name: false
+title: Blake Weston
+email: ""
 ---
 I am Blake Weston, an aspiring data scientist. I am currently enrolled as a Masters Candidate at the University of Illinois at Chicago pursuing an MS in Business Analytics. My background includes a BS in Finance. I have professional experience as a Senior Financial Analyst but looking to pivot into a more data-centric role.
 
