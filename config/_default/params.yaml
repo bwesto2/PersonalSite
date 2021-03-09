@@ -23,14 +23,6 @@ twitter: ''
 email: weston.blake.2013@gmail.com  
 phone: (773) 420-7757
 contact_links:
-  - icon: envelope
-    icon_pack: fab
-    name: email me
-    link: 'mailto:weston.blake.2013@gmail.com'
-  - icon: phone
-    icon_pack: fab
-    name: (773) 420-7757
-    link:
   - icon: linkedin
     icon_pack: fab
     name: connect with me on linkedin
