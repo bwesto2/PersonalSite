@@ -87,8 +87,8 @@ item:
     description: ''
     
 item:    
-  - organization: We will also intertwine these topics with online experimentation techniques (A/B testing) and software engineering ideas such as version control, containerization, and continuous integration or continuous deployment.
-    organization_url:
+  - organization: Course surveys modern best practices around getting machine learning models into production. Students will gain a better understanding of strategies for model management, monitoring and deployment. We will also intertwine these topics with online experimentation techniques (A/B testing) and software engineering ideas such as version control, containerization, and continuous integration or continuous deployment.
+    organization_url: ''
     title: IDS 594 - Special Topics: Machine Learning Operations
     url: ''
     certificate_url: ''
