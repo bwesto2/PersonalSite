@@ -3,6 +3,9 @@ widget: accomplishments
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
+weight: 40
+title: Coursework
+
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -18,8 +21,8 @@ item:
     organization_url:
     title: IDS 400 - Programming for Data Science
     url: ''
-    certificate_url: 'https://www.coursera.org'
-    date_start: '2018-10-01'
+    certificate_url: ''
+    date_start: ''
     date_end: ''
     description: ''
   - organization: edX
