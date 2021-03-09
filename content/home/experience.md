@@ -28,7 +28,7 @@ experience:
     location: Chicago, IL
     date_start: '2020-09'
     date_end: ''
-    description: |2-
+    description:
         Responsibilities include:
         * Prepare and review monthly, quarterly, and annual forecasts for all client accounts.
         * Lead client meetings on requirements for the current and future planned forecasting processes.
@@ -42,7 +42,7 @@ experience:
     location: Chicago, IL
     date_start: '2019-09'
     date_end: '2020-09'
-    description: |2-
+    description: 
         Responsibilities include:
         * Finance analyst assigned to multi-billion dollar government account.
         * Monitor budgets across all marketing campaigns, generate financial reports and analyze data to provide commentary and process improvements.
@@ -60,9 +60,10 @@ experience:
     location: Chicago, IL
     date_start: '2017-04'
     date_end: '2019-09'
-    description: |2-
+    description:
         Responsibilities include:
-        * Assist financial analysts and accountants with monthly and quarterly reports; mainly using Excel to build reports validating company revenue, churn, and other financial metrics.
+        * Assist financial analysts and accountants with monthly and quarterly reports; mainly using Excel to build reports validating company revenue, churn, and 
+other financial metrics.
         * Execute general ledger analysis, billing reconciliation, and produced month-end financial reports for C-suite executives. Responsible for explaining variances in the financial data to executives and provide insights on how to improve metrics.
         * Redesigned Excel database to ensure accurate financial reporting without needing manual input. The project also resulted in easier access to monthly reports with simpler controls.
         * Perform billing audits to ensure SOX compliance, as well as handling any charge-backs or payment processing errors with our payment processor.
