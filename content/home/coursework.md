@@ -67,7 +67,7 @@ item:
     
 item:    
   - organization: Course surveys modern best practices around getting machine learning models into production. Students will gain a better understanding of strategies for model management, monitoring and deployment. 
-    title: IDS 594 - Special Topics: Machine Learning Operations
+    title: IDS 594 - Machine Learning Operations
     date_start: '2021-01-01'
     date_end: ''
     description: ''
