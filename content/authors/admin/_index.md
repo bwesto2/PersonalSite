@@ -4,9 +4,9 @@ avatar_filename: avatar.png
 bio: ""
 interests: 
   - Data Science
+  - Deep Learning
   - Big Data
   - Risk Management
-  - Big Data
   - Data Visualization
   
 social:
